@@ -20,9 +20,7 @@
       "volume": "13",
       "last_updated": "1749453268",
       "groups": {
-        "/a/non": [
-          "https://imgchest.com/p/bp455d3mq45"
-        ]
+        "/a/non": "https://imgchest.com/p/bp455d3mq45"
       }
     }
   }
